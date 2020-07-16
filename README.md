@@ -1,2 +1,2 @@
-# TSQL
-Using TSQL to manage database
+# SQL
+Normalization of database
