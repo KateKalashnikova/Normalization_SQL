@@ -1,2 +1,2 @@
 # SQL
-Normalization of database
+Use TSQL to normalize a database
